@@ -4,7 +4,7 @@ AULA 06/03
 
 * Mercurial
 
-* Gitlab
+* Git
 
 * Subversion
 
